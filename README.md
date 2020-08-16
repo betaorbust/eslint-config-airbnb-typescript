@@ -10,6 +10,7 @@ Install dependencies. ESLint plugins [must also be installed](https://github.com
 
 ```bash
 npm install eslint-config-airbnb-typescript \
+            eslint-config-airbnb@^18.2.0 \
             eslint-plugin-import@^2.22.0 \
             eslint-plugin-jsx-a11y@^6.3.1 \
             eslint-plugin-react@^7.20.3 \
